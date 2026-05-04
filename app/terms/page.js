@@ -228,7 +228,7 @@ export default function TermsPage() {
 
           <p>
 
-            Questions about these Terms? Email <a href="mailto:hello@fedresumepro.com" style={{ color: "#0f2444", textDecoration: "underline" }}>hello@fedresumepro.com</a>.
+            Questions about these Terms? Email <a href="mailto:hello@fed-resume-pro.com" style={{ color: "#0f2444", textDecoration: "underline" }}>hello@fed-resume-pro.com</a>.
 
           </p>
 

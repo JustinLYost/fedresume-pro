@@ -1483,7 +1483,7 @@ function FaqAccordion() {
           <p style={{ fontFamily: FONTS.body, fontSize: 15, color: COLORS.muted }}>
             Still have a question?{" "}
             <a
-              href="mailto:hello@fedresumepro.com"
+              href="mailto:hello@fed-resume-pro.com"
               className="underline font-medium"
               style={{ color: COLORS.navy }}
             >
@@ -1556,9 +1556,9 @@ function SiteFooter() {
               <li><a href="/about" style={linkStyle}>About</a></li>
               <li><a href="/contact" style={linkStyle}>Contact</a></li>
               <li>
-                <a href="mailto:hello@fedresumepro.com" style={linkStyle}>
+                <a href="mailto:hello@fed-resume-pro.com" style={linkStyle}>
                   <Mail size={12} className="inline mr-1 -mt-0.5" />
-                  hello@fedresumepro.com
+                  hello@fed-resume-pro.com
                 </a>
               </li>
             </ul>
@@ -1695,7 +1695,7 @@ export default function FedResumeOptimizer() {
       setView("results");
     } catch (e) {
       console.error("Analyze error:", e);
-      setError("Something went wrong while analyzing. Please try again in a moment. If this keeps happening, email support@fedresumepro.com.");
+      setError("Something went wrong while analyzing. Please try again in a moment. If this keeps happening, email support@fed-resume-pro.com.");
     } finally {
       setLoading(false);
     }
@@ -1715,7 +1715,7 @@ export default function FedResumeOptimizer() {
       setRewrittenResume(data.text);
     } catch (e) {
       console.error("Rewrite error:", e);
-      setRewriteError("We couldn't generate your rewrite right now. Your purchase is still valid — please try again in a moment, or email support@fedresumepro.com and we'll either fix it or refund you.");
+      setRewriteError("We couldn't generate your rewrite right now. Your purchase is still valid — please try again in a moment, or email support@fed-resume-pro.com and we'll either fix it or refund you.");
     } finally {
       setGeneratingRewrite(false);
     }
@@ -1735,7 +1735,7 @@ export default function FedResumeOptimizer() {
       setMeritEssays(data.essays);
     } catch (e) {
       console.error("Essays error:", e);
-      setEssaysError("We couldn't generate your essay starters right now. Your purchase is still valid — please try again in a moment, or email support@fedresumepro.com.");
+      setEssaysError("We couldn't generate your essay starters right now. Your purchase is still valid — please try again in a moment, or email support@fed-resume-pro.com.");
     } finally {
       setGeneratingEssays(false);
     }
@@ -1755,7 +1755,7 @@ export default function FedResumeOptimizer() {
       window.location.href = url;
     } catch (e) {
       console.error("Checkout error:", e);
-      alert("Couldn't start checkout. Please try again or email support@fedresumepro.com.");
+      alert("Couldn't start checkout. Please try again or email support@fed-resume-pro.com.");
     }
   };
 
@@ -1773,7 +1773,7 @@ export default function FedResumeOptimizer() {
       window.location.href = url;
     } catch (e) {
       console.error("Checkout error:", e);
-      alert("Couldn't start checkout. Please try again or email support@fedresumepro.com.");
+      alert("Couldn't start checkout. Please try again or email support@fed-resume-pro.com.");
     }
   };
 
@@ -1791,7 +1791,7 @@ export default function FedResumeOptimizer() {
       window.location.href = url;
     } catch (e) {
       console.error("Checkout error:", e);
-      alert("Couldn't start checkout. Please try again or email support@fedresumepro.com.");
+      alert("Couldn't start checkout. Please try again or email support@fed-resume-pro.com.");
     }
   };
 

@@ -60,7 +60,7 @@ Refund Policy
 
           <p>
 
-            Email <a href="mailto:support@fedresumepro.com" style={{ color: "#0f2444", textDecoration: "underline" }}>support@fedresumepro.com</a> from the email address you used at checkout. Include the date of purchase if you have it. That's it — no form to fill out, no reason required.
+            Email <a href="mailto:support@fed-resume-pro.com" style={{ color: "#0f2444", textDecoration: "underline" }}>support@fed-resume-pro.com</a> from the email address you used at checkout. Include the date of purchase if you have it. That's it — no form to fill out, no reason required.
 
           </p>
 

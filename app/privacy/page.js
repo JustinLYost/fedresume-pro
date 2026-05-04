@@ -145,7 +145,7 @@ export default function PrivacyPage() {
 
           <p>
 
-            Depending on where you live (including under GDPR in the EU/UK and CCPA in California), you may have the right to access, correct, delete, or port any personal information we hold about you. Because we don't keep resume content and store only minimal payment-related information, in most cases the only data we have on file is the payment receipt from Stripe. To exercise any rights, email <a href="mailto:hello@fedresumepro.com" style={{ color: "#0f2444", textDecoration: "underline" }}>hello@fedresumepro.com</a>.
+            Depending on where you live (including under GDPR in the EU/UK and CCPA in California), you may have the right to access, correct, delete, or port any personal information we hold about you. Because we don't keep resume content and store only minimal payment-related information, in most cases the only data we have on file is the payment receipt from Stripe. To exercise any rights, email <a href="mailto:hello@fed-resume-pro.com" style={{ color: "#0f2444", textDecoration: "underline" }}>hello@fed-resume-pro.com</a>.
 
           </p>
 
@@ -191,7 +191,7 @@ export default function PrivacyPage() {
 
           <p>
 
-            Questions about your privacy? Email <a href="mailto:hello@fedresumepro.com" style={{ color: "#0f2444", textDecoration: "underline" }}>hello@fedresumepro.com</a>.
+            Questions about your privacy? Email <a href="mailto:hello@fed-resume-pro.com" style={{ color: "#0f2444", textDecoration: "underline" }}>hello@fed-resume-pro.com</a>.
 
           </p>
 

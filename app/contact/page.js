@@ -39,9 +39,9 @@ export default function ContactPage() {
 
           </div>
 
-          <a href="mailto:hello@fedresumepro.com" style={{ fontFamily: "'Merriweather', Georgia, serif", fontSize: 18, fontWeight: 700, color: "#141414" }}>
+          <a href="mailto:hello@fed-resume-pro.com" style={{ fontFamily: "'Merriweather', Georgia, serif", fontSize: 18, fontWeight: 700, color: "#141414" }}>
 
-            hello@fedresumepro.com
+            hello@fed-resume-pro.com
 
           </a>
 
@@ -60,9 +60,9 @@ Product feedback, partnership inquiries, press, or anything else.
 
           </div>
 
-          <a href="mailto:support@fedresumepro.com" style={{ fontFamily: "'Merriweather', Georgia, serif", fontSize: 18, fontWeight: 700, color: "#141414" }}>
+          <a href="mailto:support@fed-resume-pro.com" style={{ fontFamily: "'Merriweather', Georgia, serif", fontSize: 18, fontWeight: 700, color: "#141414" }}>
 
-            support@fedresumepro.com
+            support@fed-resume-pro.com
 </a>
 
           <p className="mt-2 text-sm" style={{ color: "#5a5550", lineHeight: 1.7 }}>
