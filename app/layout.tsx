@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "FedResume Pro — AI Federal Resume Optimization for Veterans",
   description: "Built for the new 2-page USAJOBS rules (Sept 2025). AI-powered resume analysis and federal-formatted rewrites for veterans and federal job seekers. From $14.99 — vs $400+ for traditional services.",
