@@ -13,3 +13,4 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${baseUrl}/refunds`, lastModified, changeFrequency: "yearly", priority: 0.3 },
   ];
 }
+
