@@ -6,7 +6,7 @@ import {
   AlertTriangle, Target, Briefcase, Edit3,
   Download, Copy, FileUp, Plus, Minus, Mail, FileSearch, Zap, RotateCcw
 } from "lucide-react";
-
+<meta name="msvalidate.01" content="4B611420A56BF7191E78338F90AEC56D" />
 // ---------- Sample data (so the demo always works without API) ----------
 
 const SAMPLE_POSTING = `Job Title: Logistics Management Specialist
