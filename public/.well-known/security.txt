@@ -1,0 +1,4 @@
+Contact: mailto:support@fed-resume-pro.com
+Expires: 2027-12-31T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://fed-resume-pro.com/.well-known/security.txt
