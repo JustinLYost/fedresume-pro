@@ -1,3 +1,38 @@
+# FedResume Pro
+
+AI-powered federal resume optimization for veterans and federal job seekers, built for the current (Sept 2025) OPM Merit Hiring Plan rules.
+
+🔗 **Live app:** [fed-resume-pro.com](https://fed-resume-pro.com)
+
+## The Problem
+
+As of September 2025, USAJOBS rejects resumes over 2 pages — but every required field (hours per week, supervisor contact, salary history, KSAs) still has to fit. Most AI tools and guides still teach the old 4-5 page format.
+
+## Features
+
+- **Match Analysis** — paste a USAJOBS posting and a resume, get a match score with prioritized missing keywords
+- **KSA Assessment** — evaluates and drafts KSA narrative responses
+- **Federal-Formatted Rewrite** — full 2-page rewrite compliant with current OPM Merit Hiring Plan formatting
+- **Merit Hiring Essay Starters** — AI-drafted starters for the four 200-word essays required for GS-05+ applications
+- No resume data stored
+
+## Why
+
+Traditional federal resume services cost $400–$1,400+. FedResume Pro delivers the same outcome starting at $14.99, built by a veteran who went through the federal application process personally.
+
+## Tech Stack
+
+- [Next.js](https://nextjs.org) / TypeScript
+- Deployed on [Vercel](https://vercel.com)
+- AI-powered resume/posting analysis
+
+## Getting Started
+
+```bash
+npm run dev
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
